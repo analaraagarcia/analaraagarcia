@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
- <h2 align="center">## Connect with me <img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_rover.gif" height="45px"></h2>
+ <h2 align="center">Connect with me <img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_rover.gif" height="45px"></h2>
 </p>
 
 
