@@ -13,22 +13,20 @@
 
 
 - I’m interested in AI and ML!
-- I’m currently learning everything that shows in my way! &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_piano_ghost.gif" alt="Mando" title ="This is the way" width="52px">
-- I'm a piano player! &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_piano_ghost.gif" alt="Piano" title ="I play piano like Chopin!" width="52px">
+- I’m currently learning everything that shows in my way! &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_mando.gif" alt="Mando" title ="This is the way" width="52px"/>
+- I'm a piano player! &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_piano_ghost.gif" alt="Piano" title ="I play piano like Chopin!" width="52px"/>
 - Pronouns: She/Her
 - Fun fact: I'm coding for Ravenclaw!
 
-&nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_lizard_harry.gif" alt="Hagrid" title ="Yer a lizard Harry!" width="180px">
+&nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_lizard_harry.gif" alt="Hagrid" title ="Yer a lizard Harry!" width="180px"/>
 
 <br>
 
 <details>
 
 <summary>
-<a href="#">
-<img src="https://github.com/analaraagarcia/analaraagarcia/blob/master/figs/icon_inteligente.png"width="24px"/>
-</a>
-<b>Profile stats</b> 
+    <a href="#"><img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/icon_inteligente.png"width="24px"/></a>
+    <b>Profile stats</b> 
 </summary>
 <br>
 
@@ -50,7 +48,7 @@
 
 <summary>
 <a href="#">
-<img src="https://github.com/analaraagarcia/analaraagarcia/blob/master/figs/inteligente.png"width="24px"/>
+<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/inteligente.png"width="24px"/>
 </a>
 <b>Languages and Tools</b> 
 </summary>
@@ -63,11 +61,11 @@
 
 </details>
 
-## Connect with me <img src="https://github.com/analaraagarcia/analaraagarcia/blob/master/figs/Handshake.gif" height="32px">
+## Connect with me <img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/Handshake.gif" height="32px">
 
 
 
-| [<img src="https://github.com/analaraagarcia/analaraagarcia/blob/master/figs/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/analaraagarcia) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/analaraagarcia) | [<img src="https://github.com/analaraagarcia/analaraagarcia/blob/master/figs/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/23215898/analaraagarcia) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@analaraagarcia) | [<img src="https://github.com/analaraagarcia/analaraagarcia/blob/master/figs/Gmail.svg" alt="Gmail logo" height="32">](mailto:analaraagarcia@hotmail.com)
+| [<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/analaraagarcia) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/analaraagarcia) | [<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/23215898/analaraagarcia) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@analaraagarcia) | [<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/Gmail.svg" alt="Gmail logo" height="32">](mailto:analaraagarcia@hotmail.com)
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 
