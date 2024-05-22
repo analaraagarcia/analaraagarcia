@@ -1,5 +1,5 @@
 <p align="center"> 	
-  <h1 align="center">👋 Hi, I’m Ana Lara</h1>	
+  <h1 align="center">Hi, I’m Ana Lara &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_ryck.gif" alt="Ryck" title ="Hi" width="52px"></h1>	
 </p>
 
 <p align="center"> 	
@@ -30,7 +30,7 @@
 <details>
 
 <summary>
-    <a href="#"><img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/icon_inteligente.png"width="24px"/></a>
+    <a href="#"><img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_powerup.gif"width="24px"/></a>
     <b>Profile stats</b> 
 </summary>
 <br>
@@ -53,10 +53,8 @@
 <details>
 
 <summary>
-<a href="#">
-<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/icon_gameboy.png"width="24px"/>
-</a>
-<b>Languages and Tools</b> 
+    <a href="#"><img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_coin.gif"width="24px"/></a>
+    <b>Languages and Tools</b> 
 </summary>
 <br>
 
