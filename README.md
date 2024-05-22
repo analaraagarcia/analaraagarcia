@@ -11,18 +11,18 @@
   <h2 align="center">About Me</h2>	
 </p>
 
-
-- I’m interested in AI and ML!
-
-- I’m currently learning everything that shows in my way! <img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_mando.gif" alt="Mando" title ="This is the way" width="52px"/>
-
-- I'm a piano player! <img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_piano_ghost.gif" alt="Piano" title ="I play piano like Chopin!" width="52px"/>
-
+## 
+- I’m currently learning everything that shows in my way!.&nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_mando.gif" alt="Mando" title ="This is the way" width="52px">
+- I'm a piano player!<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_piano_ghost.gif" alt="Piano" title ="I Play piano like Chopin" width="52px">
 - Pronouns: She/Her
+- Pursuing a Bachelor’s Degree in Computer Science at São Paulo State University&nbsp;( <a href="https://www.international.unesp.br/" target="_blank">unesp
+<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/icon_unesp.png" alt="São Paulo State University" title="São Paulo State University" height="20px"/></a> )
 
 - Fun fact: I'm coding for Ravenclaw!
+	  
+<br>
 
-<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_lizard_harry.gif" alt="Hagrid" title ="Yer a lizard Harry!" width="180px"/>
+<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_lizard_harry.gif" alt="Hagrid" title ="Yer a lizard Harry!" width="180px">
 
 <br>
 
