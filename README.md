@@ -90,13 +90,3 @@
 
 </p>
 
-
-<br>
-
-<br>
-
-#
-
-  ![Snake animation](https://github.com/analaraagarcia/analaraagarcia/blob/output/github-contribution-grid-snake.svg)
-
-#
