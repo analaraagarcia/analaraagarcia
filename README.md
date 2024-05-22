@@ -1,5 +1,5 @@
 <p align="center"> 	
-  <h1 align="center">Hi, I’m Ana Lara &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_ryck.gif" alt="Ryck" title ="Hi" width="52px"></h1>	
+  <h1 align="center"> &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_ryck.gif" alt="Ryck" title ="Hi" width="52px"> Hi, I’m Ana Lara </h1>	
 </p>
 
 <p align="center"> 	
