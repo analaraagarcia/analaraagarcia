@@ -14,7 +14,7 @@
 
 - I’m currently learning everything that shows in my way! &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_mando.gif" alt="Mando" title ="This is the way" width="40px">
 
-- I'm a piano player! &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_piano_ghost.gif" alt="Piano" title ="I Play piano like Chopin" width="50px">
+- I'm a piano player! &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_piano_ghost.gif" alt="Piano" title ="I Play piano like Chopin" width="68px">
 
 <br>
 
