@@ -13,12 +13,16 @@
 
 
 - I’m interested in AI and ML!
-- I’m currently learning everything that shows in my way! &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_mando.gif" alt="Mando" title ="This is the way" width="52px"/>
-- I'm a piano player! &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_piano_ghost.gif" alt="Piano" title ="I play piano like Chopin!" width="52px"/>
+
+- I’m currently learning everything that shows in my way! <img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_mando.gif" alt="Mando" title ="This is the way" width="52px"/>
+
+- I'm a piano player! <img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_piano_ghost.gif" alt="Piano" title ="I play piano like Chopin!" width="52px"/>
+
 - Pronouns: She/Her
+
 - Fun fact: I'm coding for Ravenclaw!
 
-&nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_lizard_harry.gif" alt="Hagrid" title ="Yer a lizard Harry!" width="180px"/>
+<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_lizard_harry.gif" alt="Hagrid" title ="Yer a lizard Harry!" width="180px"/>
 
 <br>
 
@@ -61,7 +65,7 @@
 
 </details>
 
-## Connect with me <img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/Handshake.gif" height="32px">
+## Connect with me <img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_rover.gif" height="32px">
 
 
 
