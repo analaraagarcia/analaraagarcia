@@ -27,7 +27,9 @@
 	  
 <br>
 
+<p align="center">
 &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_lizard_harry.gif" alt="Hagrid" title ="Yer a lizard Harry!" width="230px">
+</p>
 
 <br>
 
@@ -79,4 +81,10 @@
 
 
 <br>
+
+<p align="center">
+&nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_mario_coding.gif" alt="Mario" title ="'To know and not to do is not to know' -Wang Yangming" width="400px">
+</p>
+
+
 <br>
