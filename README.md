@@ -12,10 +12,11 @@
 </p>
 
 
-- I’m currently learning everything that shows in my way! &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_mando.gif" alt="Mando" title ="This is the way" width="52px">
+- I’m currently learning everything that shows in my way! &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_mando.gif" alt="Mando" title ="This is the way" width="48px">
 
-- I'm a piano player! &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_piano_ghost.gif" alt="Piano" title ="I Play piano like Chopin" width="52px">
+- I'm a piano player! &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_piano_ghost.gif" alt="Piano" title ="I Play piano like Chopin" width="45px">
 
+<br>
 
 - Pursuing a Bachelor’s Degree in Computer Science at São Paulo State University&nbsp;( <a href="https://www.international.unesp.br/" target="_blank">unesp
 <img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/icon_unesp.png" alt="São Paulo State University" title="São Paulo State University" height="20px"/></a> )
