@@ -63,11 +63,11 @@
     <b>Languages and Tools</b> 
 </summary>
 <br>
-
+<p align="center">
 | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>](https://www.cprogramming.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>](https://www.w3schools.com/cpp/) | [<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>](https://flutter.dev) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>](https://golang.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>](https://www.java.com) | 
 |:---:|:---:|:---:|:---:|:---:|
 | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>](https://nodejs.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org) | [<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>](https://pytorch.org/) | [<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>](https://www.tensorflow.org) |
-
+</p>
 
 </details>
 
@@ -81,10 +81,10 @@
  <h2 align="center">Connect with me <img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_rover.gif" height="45px"></h2>
 </p>
 
-
+<p align="center">
 | [<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/analaraagarcia) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/analaraagarcia) | [<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/icon_coders_rank.png" alt="CodersRank Logo" width="30">](https://profile.codersrank.io/user/analaraagarcia/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/23215898/analaraagarcia) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@analaraagarcia) | [<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/Gmail.svg" alt="Gmail logo" height="32">](mailto:analaraagarcia@hotmail.com)
 |:---:|:---:|:---:|:---:|:---:|:---:|
-
+</p>
 
 
 <br>
