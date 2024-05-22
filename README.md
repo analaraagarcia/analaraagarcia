@@ -71,6 +71,12 @@
 
 </details>
 
+<br>
+
+<p align="center">
+&nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_mario_coding.gif" alt="Mario" title ="'To know and not to do is not to know' -Wang Yangming" width="400px">
+</p>
+
 ## Connect with me <img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_rover.gif" height="45px">
 
 
@@ -81,10 +87,5 @@
 
 
 <br>
-
-<p align="center">
-&nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_mario_coding.gif" alt="Mario" title ="'To know and not to do is not to know' -Wang Yangming" width="650px">
-</p>
-
 
 <br>
