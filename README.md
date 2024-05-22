@@ -77,8 +77,9 @@
 &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_mario_coding.gif" alt="Mario" title ="'To know and not to do is not to know' -Wang Yangming" width="400px">
 </p>
 
-## Connect with me <img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_rover.gif" height="45px">
-
+<p align="center">
+ <h2 align="center">## Connect with me <img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_rover.gif" height="45px"></h2>
+</p>
 
 
 | [<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/analaraagarcia) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/analaraagarcia) | [<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/icon_coders_rank.png" alt="CodersRank Logo" width="30">](https://profile.codersrank.io/user/analaraagarcia/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/23215898/analaraagarcia) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@analaraagarcia) | [<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/Gmail.svg" alt="Gmail logo" height="32">](mailto:analaraagarcia@hotmail.com)
