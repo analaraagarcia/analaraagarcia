@@ -55,7 +55,6 @@
 
 </details>
 
-<br>
 <details>
 
 <summary>
