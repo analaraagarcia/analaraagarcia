@@ -8,7 +8,7 @@
 </p>
 
 <p align="center"> 	
-  <h2 align="center">About Me &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_baby_yoda.gif" alt="Grogu" title ="Caffeine Addicted" width="52px"></h2>	
+  <h2 align="center">About Me &nbsp;</h2>	
 </p>
 
 - I’m currently learning everything that shows in my way! &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_mando.gif" alt="Mando" title ="This is the way" width="40px">
