@@ -13,16 +13,10 @@
 
 - I’m currently learning everything that shows in my way! &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_mando.gif" alt="Mando" title ="This is the way" width="40px">
 
-- I'm a piano player!
+- Exploring the world of Mobile Developing
 
 - Pursuing a Bachelor’s Degree in Computer Science at São Paulo State University&nbsp;( <a href="https://www.international.unesp.br/" target="_blank">unesp
   <img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/icon_unesp.png" alt="São Paulo State University" title="São Paulo State University" height="20px"/></a> )
-
-<br>
-
-<p align="center">
-&nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_lizard_harry.gif" alt="Hagrid" title ="Yer a lizard Harry!" width="230px">
-</p>
 
 <br>
 
