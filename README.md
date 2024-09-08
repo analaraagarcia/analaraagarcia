@@ -11,12 +11,12 @@
   <h2 align="center">About Me &nbsp;</h2>	
 </p>
 
-- I’m currently learning everything that shows in my way! &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_mando.gif" alt="Mando" title ="This is the way" width="40px">
-
-- Exploring the world of Mobile Developing
-
 - Pursuing a Bachelor’s Degree in Computer Science at São Paulo State University&nbsp;( <a href="https://www.international.unesp.br/" target="_blank">unesp
   <img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/icon_unesp.png" alt="São Paulo State University" title="São Paulo State University" height="20px"/></a> )
+
+- Exploring the world of Mobile Development and Machine Learning
+
+- I like practcing
 
 <br>
 
@@ -46,29 +46,35 @@
     <b>Languages and Tools</b> 
 </summary>
 <br>
-<p align="center">
 
-|                           [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>](https://www.cprogramming.com/)                            | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>](https://www.w3schools.com/cpp/) |                [<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>](https://flutter.dev)                | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>](https://golang.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>](https://www.java.com) |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |       [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>](https://nodejs.org)       | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org) |         [<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>](https://pytorch.org/)          |      [<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>](https://www.tensorflow.org)      |
-
-</p>
+<table>
+  <tr>
+    <td><a href="https://golang.org"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" title="Go" height="40" style="margin-bottom: 5px;" /></a></td>
+    <td><a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" height="40" style="margin-bottom: 5px;" /></a></td>
+    <td><a href="https://devdocs.io/c/"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" title="C" height="40" style="margin-bottom: 5px;" /></a></td>
+    <td><a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" height="40" style="margin-bottom: 5px;" /></a></td>
+    <td><a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" title="Flutter" height="40" style="margin-bottom: 5px;" /></a></td>
+    <td><a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" title="Dart" height="40" style="margin-bottom: 5px;" /></a></td>
+    <td><a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" title="Kotlin" height="40" style="margin-bottom: 5px;" /></a></td>
+    <td><a href="https://developer.apple.com/swift/"><img src="https://skillicons.dev/icons?i=swift&theme=dark" alt="Swift" title="Swift" height="40" style="margin-bottom: 5px;" /></a></td>
+    <td><a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React Native" title="React Native" height="40" style="margin-bottom: 5px;" /></a></td>
+    <td><a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java" height="40" style="margin-bottom: 5px;" /></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" height="40" style="margin-bottom: 5px;" /></a></td>
+    <td><a href="https://python.langchain.com/"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="LangChain" title="LangChain" height="40" style="margin-bottom: 5px;" /></a></td>
+  </tr>
+</table>
 
 </details>
 
 <br>
 
 <p align="center">
-&nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_mario_coding.gif" alt="Mario" title ="'To know and not to do is not to know' -Wang Yangming" width="400px">
-</p>
-
-<p align="center">
  <h2 align="center">Connect with me <img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_rover.gif" height="45px"></h2>
 </p>
 
-<p align="center">
+<div align="center">
 
 | [<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/analaraagarcia) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/analaraagarcia) | [<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/icon_coders_rank.png" alt="CodersRank Logo" width="30">](https://profile.codersrank.io/user/analaraagarcia/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/23215898/analaraagarcia) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@analaraagarcia) | [<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/Gmail.svg" alt="Gmail logo" height="32">](mailto:analaraagarcia@hotmail.com) |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-</p>
+</div>
