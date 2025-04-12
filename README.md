@@ -1,14 +1,5 @@
 <p align="center"> 	
-  <h1 align="center"> &nbsp;<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_ryck.gif" alt="Ryck" title ="Hi" width="45px"> Hi, I’m Ana Lara </h1>	
-</p>
-
-<p align="center"> 	
-  <a href="https://www.codewars.com/users/analaraagarcia" alt="CodeWars Profile" title="My CodeWars profile: @analaraagarcia">
-	  <img src="https://www.codewars.com/users/analaraagarcia/badges/large" height="28px"/></a>	
-</p>
-
-<p align="center"> 	
-  <h2 align="center">About Me &nbsp;</h2>	
+   <h1>Hi, I’m Ana Lara</h1>
 </p>
 
 - Pursuing a Bachelor’s Degree in Computer Science at São Paulo State University&nbsp;( <a href="https://www.international.unesp.br/" target="_blank">unesp
@@ -24,7 +15,10 @@
     <a href="#"><img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_powerup.gif"width="24px"/></a>
     <b>Profile stats</b> 
 </summary>
-<br>
+<p align="center"> 	
+  <a href="https://www.codewars.com/users/analaraagarcia" alt="CodeWars Profile" title="My CodeWars profile: @analaraagarcia">
+	  <img src="https://www.codewars.com/users/analaraagarcia/badges/small"/></a>	
+</p>
 
 <a href="https://github.com/analaraagarcia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analaraagarcia&theme=radical&hide_langs_below=1" height="180em"/>
@@ -34,6 +28,11 @@
 </a>
 
 <br>
+
+<!--START_SECTION:waka-readme-stats-->
+
+<!--END_SECTION:waka-readme-stats-->
+
 
 </details>
 
