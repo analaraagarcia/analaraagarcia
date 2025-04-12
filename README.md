@@ -13,6 +13,7 @@
     <a href="#"><img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_powerup.gif"width="24px"/></a>
     <b>Profile stats</b> 
 </summary>
+<br>
 <p align="left"> 	
   <a href="https://www.codewars.com/users/analaraagarcia" alt="CodeWars Profile" title="My CodeWars profile: @analaraagarcia">
 	  <img src="https://www.codewars.com/users/analaraagarcia/badges/small"/></a>	
