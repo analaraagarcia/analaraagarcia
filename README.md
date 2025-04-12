@@ -1,6 +1,4 @@
-<p align="center"> 	
-   <h1>Hi, I’m Ana Lara</h1>
-</p>
+   <h1 align="center">Hi, I’m Ana Lara</h1>
 
 - Pursuing a Bachelor’s Degree in Computer Science at São Paulo State University&nbsp;( <a href="https://www.international.unesp.br/" target="_blank">unesp
   <img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/icon_unesp.png" alt="São Paulo State University" title="São Paulo State University" height="20px"/></a> )
@@ -15,7 +13,7 @@
     <a href="#"><img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_powerup.gif"width="24px"/></a>
     <b>Profile stats</b> 
 </summary>
-<p align="center"> 	
+<p align="left"> 	
   <a href="https://www.codewars.com/users/analaraagarcia" alt="CodeWars Profile" title="My CodeWars profile: @analaraagarcia">
 	  <img src="https://www.codewars.com/users/analaraagarcia/badges/small"/></a>	
 </p>
