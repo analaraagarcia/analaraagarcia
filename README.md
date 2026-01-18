@@ -14,10 +14,6 @@
     <b>Profile stats</b> 
 </summary>
 <br>
-<p align="left"> 	
-  <a href="https://www.codewars.com/users/analaraagarcia" alt="CodeWars Profile" title="My CodeWars profile: @analaraagarcia">
-	  <img src="https://www.codewars.com/users/analaraagarcia/badges/small"/></a>	
-</p>
 
 <a href="https://github.com/analaraagarcia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analaraagarcia&theme=radical&hide_langs_below=1" height="180em"/>
@@ -46,11 +42,11 @@
 <table>
   <tr>
     <td><a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" height="40" /></a></td>
-    <td><a href="https://www.langchain.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=light" alt="LangChain" title="LangChain" height="40" /></a></td>
-    <td><a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java" height="40" /></a></td>
-    <td><a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal&theme=dark" alt="Unreal" title="Unreal" height="40" /></a></td>
     <td><a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" height="40" /></a></td>
     <td><a href="https://devdocs.io/c/"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" title="C" height="40" /></a></td>
+    <td><a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java" height="40" /></a></td>
+    <td><a href="https://www.langchain.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=light" alt="LangChain" title="LangChain" height="40" /></a></td>
+    <td><a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal&theme=dark" alt="Unreal" title="Unreal" height="40" /></a></td>
   </tr>
 </table>
 
