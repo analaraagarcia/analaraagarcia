@@ -45,12 +45,12 @@
 
 <table>
   <tr>
-    <td><a href="https://golang.org"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" title="Go" height="40" style="margin-bottom: 5px;" /></a></td>
-    <td><a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" height="40" style="margin-bottom: 5px;" /></a></td>
-    <td><a href="https://devdocs.io/c/"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" title="C" height="40" style="margin-bottom: 5px;" /></a></td>
-    <td><a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" height="40" style="margin-bottom: 5px;" /></a></td>
-    <td><a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java" height="40" style="margin-bottom: 5px;" /></a></td>
-    <td><a href="https://python.langchain.com/"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="LangChain" title="LangChain" height="40" style="margin-bottom: 5px;" /></a></td>
+    <td><a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" height="40" /></a></td>
+    <td><a href="https://devdocs.io/c/"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" title="C" height="40" /></a></td>
+    <td><a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" height="40" /></a></td>
+    <td><a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java" height="40" /></a></td>
+    <td><a href="https://www.langchain.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=light" alt="LangChain" title="LangChain" height="40" /></a></td>
+    <td><a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal&theme=dark" alt="Unreal" title="Unreal" height="40" /></a></td>
   </tr>
 </table>
 
@@ -61,10 +61,3 @@
 <p align="center">
  <h2 align="center">Connect with me <img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_rover.gif" height="45px"></h2>
 </p>
-
-<div align="center">
-
-| [<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/analaraagarcia) | [<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/github.png" alt="GitHub Logo" width="30">](https://github.com/analaraagarcia) | [<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/icon_coders_rank.png" alt="CodersRank Logo" width="30">](https://profile.codersrank.io/user/analaraagarcia/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/23215898/analaraagarcia) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@analaraagarcia) | [<img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/Gmail.svg" alt="Gmail logo" height="32">](mailto:analaraagarcia@hotmail.com) |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
-
-</div>
