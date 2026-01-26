@@ -49,7 +49,7 @@
     <td><a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="PyTorch" title="PyTorch" height="40" /></a></td>
     <td><a href="https://numpy.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=light" alt="NumPy" title="NumPy" height="40" /></a></td>
     <td><a href="https://pola.rs"><img src="https://go-skill-icons.vercel.app/api/icons?i=polars&theme=light" alt="Polars" title="Polars" height="40" /></a></td>
-    <td><a href="https://pandas.pydata.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=light" alt="Polars" title="Polars" height="40" /></a></td>
+    <td><a href="https://pandas.pydata.org"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=light" alt="Pandas" title="Pandas" height="40" /></a></td>
     <td><a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal&theme=dark" alt="Unreal" title="Unreal" height="40" /></a></td>
   </tr>
 </table>
