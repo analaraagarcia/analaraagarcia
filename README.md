@@ -13,16 +13,6 @@
     <a href="#"><img src="https://github.com/analaraagarcia/analaraagarcia/blob/main/figs/gif_powerup.gif"width="24px"/></a>
     <b>Profile stats</b> 
 </summary>
-<br>
-
-<a href="https://github.com/analaraagarcia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analaraagarcia&theme=radical&hide_langs_below=1" height="180em"/>
-</a>
-<a href="https://github.com/analaraagarcia">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=analaraagarcia&show_icons=true&theme=radical&line_height=27" alt="Ana Lara's github stats"height="180em"/>
-</a>
-
-<br>
 
 <!--START_SECTION:waka-readme-stats-->
 

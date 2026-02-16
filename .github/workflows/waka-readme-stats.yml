@@ -3,7 +3,7 @@ name: Waka Readme Stats
 on:
   workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: "30 18 * * 0" # runs at 18:30 UTC every Monday
+    - cron: "30 18 * * 0" # runs at 18:30 UTC every Sunday
 
 jobs:
   update-readme:
